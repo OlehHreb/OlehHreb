@@ -1,3 +1,5 @@
+🔮 **Язык:** [EN](README.md) | [DE](READMEde.md) | [UA](READMEua.md) | **RU**
+
 <img width="3432" height="691" alt="LOGO" src="https://github.com/user-attachments/assets/7cf6367f-7d61-45e8-ad01-787126b99151" />
 
 # 🧬 Обо мне
